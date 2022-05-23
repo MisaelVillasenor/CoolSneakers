@@ -1,0 +1,177 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "TENIS ADIDAS SLEEK SUELA ROSA",
+            "price": 1215,
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/bc386809fe5c45728855acc4011de590_9366/Tenis_adidas_Sleek_Blanco_H05178_01_standard.jpg?auto=compress&amp;h=305",
+            "category": "adidas"
+            
+        },
+        {
+            "id": 2,
+            "title": "TENIS DURAMO SL CONFORTABLES",
+            "price": 1050,
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0af6b41a476e4f1dbd0cacb800edc33b_9366/Tenis_Duramo_SL_Negro_H04628_01_standard.jpg?auto=compress&amp;h=305",
+            "category": "adidas"
+        },
+        {
+            "id": 3,
+            "title": "TENIS DONOVAN MITCHELL D.O.N. ISSUE #3",
+            "price": 2000,
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/6fed94c7b4394731ab83acfa014622a9_9366/Tenis_Donovan_Mitchell_D.O.N._Issue_3_Violeta_H68046_01_standard.jpg?auto=compress&amp;h=305",
+            "category": "adidas"
+        },
+        {
+            "id": 4,
+            "title": "TENIS GEODIVER PRIMEBLUE",
+            "price": 1500,
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f93005fbd98643d980fead5801467bb6_9366/Tenis_Geodiver_Primeblue_Naranja_H04196_01_standard.jpg?auto=compress&amp;h=305",
+            "category": "adidas"
+        },
+        {
+            "id": 5,
+            "title": "TENIS ADIDAS GRAND COURT BASE",
+            "price": 2020,
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/7b941a0c1dff46e893a9aa4300d45480_9366/Tenis_adidas_Grand_Court_Base_Blanco_EE7968_01_standard.jpg?auto=compress&amp;h=305",
+            "category": "adidas"
+
+        },
+        {
+            "id": 6,
+            "title": "TENIS DE RUNNING EQ21 COLD.RDY",
+            "price": 1850,
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f362768531ad445e8911ad1e0168a8e7_9366/Tenis_de_Running_EQ21_COLD.RDY_Gris_H00499_01_standard.jpg?auto=compress&amp;h=305",
+            "category": "adidas"
+
+        },
+        {
+            "id": 7,
+            "title": "TENIS GEODIVER PRIMEBLUE",
+            "price": 1400,
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/e1febaaaf04d48ee8043ad1000dc482a_9366/Tenis_Geodiver_Primeblue_Rosa_H04193_01_standard.jpg?auto=compress&amp;h=305",
+            "category": "adidas"
+        },
+        {
+            "id": 8,
+            "title": "TENIS X9000L1 MODELO ESPECIAL",
+            "price": 1600,
+            "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/5b010605f16949fc97dcad1000c3b3c1_9366/Tenis_X9000L1_Blanco_GV7291_01_standard.jpg?auto=compress&amp;h=305",
+            "category": "adidas"
+        },
+        {
+            "id": 9,
+            "title": "NIKE AIR FORCE 1 '07 LV8",
+            "price": 3000,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/616fde21-c414-489c-b4a8-79bb3b86ac6b/calzado-air-force-1-07-lv8-f1DN2f.png?auto=compress&amp;h=305",
+            "category": "nike"
+        },
+        {
+            "id": 10,
+            "title": "NIKE AF 1/1",
+            "price": 2200,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1b9015fe-085f-4f5f-aee2-dfecbb49e613/calzado-af-1-1-fwLVfv.png?auto=compress&amp;h=305",
+            "category": "nike"
+        },
+        {
+            "id": 11,
+            "title": "NIKE RENEW RUN 2",
+            "price": 1000,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6eab4ac3-308e-4466-bfe4-9e48ab17a841/calzado-de-running-para-carretera-talla-grande-renew-run-2-rk1kQb.png?auto=compress&amp;h=305",
+            "category": "nike"
+        },
+        {
+            "id": 12,
+            "title": "NIKE AIR ZOOM SUPERREP2",
+            "price": 2600,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/718d69e2-46f1-41d7-a23c-430f87af042a/calzado-para-clases-hiit-air-zoom-superrep-2-jz4NMw.png?auto=compress&amp;h=305",
+            "category": "nike"
+        },
+        {
+            "id": 13,
+            "title": "NIKE METCON 7 AMP",
+            "price": 3150,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b40444ce-f06d-497e-86c4-f57050179219/calzado-de-entrenamiento-metcon-7-amp-zkZ6qS.png?auto=compress&amp;h=305",
+            "category": "nike"
+        },
+        {
+            "id": 14,
+            "title": "NIKE AIR FORCE 1 SCULPT",
+            "price": 3000,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/997fda2a-5e82-4058-99d5-70f7f5eb9805/calzado-air-force-1-sculpt.png?auto=compress&amp;h=305",
+            "category": "nike"
+        },
+        {
+            "id": 15,
+            "title": "NIKE LEGACY CANVAS",
+            "price": 900,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5111abe3-b98b-4698-8050-07117f00c534/calzado-court-legacy-canvas-nXwPS4.png?auto=compress&amp;h=305",
+            "category": "nike"
+        },
+        {
+            "id": 16,
+            "title": "KYRIE INFINITY SE",
+            "price": 2400,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f8138219-8d80-44cf-a898-2704343d1ca5/calzado-de-b%C3%A1squetbol-grandes-kyrie-infinity-se-1lfN2b.png?auto=compress&amp;h=305",
+            "category": "nike"
+        },
+        {
+            "id": 17,
+            "title": "CHUCH TAYLOR ALL STAR HI",
+            "price": 1900,
+            "image": "https://converse.com.mx/media/catalog/product/c/o/converse-all-star-high-street-lona-caballero-media-bota-negro-lona-172798c-4.jpg",
+            "category": "converse"
+
+        },
+        {
+            "id": 18,
+            "title": "PLATAFORMA ALL STAR SEASONAL",
+            "price": 1700,
+            "image": "https://converse.com.mx/media/catalog/product/c/h/chuck-taylor-all-star-plataforma-piel-dama-blanco-561680c-4.jpg",
+            "category": "converse"
+
+        },
+        {
+            "id": 19,
+            "title": "CHUCK TAYLOR ALL STAR ULTRA ASH STONE OX",
+            "price": 1900,
+            "image": "https://converse.com.mx/media/catalog/product/c/o/converse-chuck-taylor-all-star-ultra-infante-media-bota-blanco-lona-772790c-3.jpg",
+            "category": "converse"
+        },
+        {
+            "id": 20,
+            "title": "CHUCK TAYLOR ALL STAR STREET UTILITY OX",
+            "price": 1500,
+            "image": "https://converse.com.mx/media/catalog/product/c/o/converse-all-star-street-lona-nino-chico-media-bota-negro-lona-672732c-4_1.jpg",
+            "category": "converse"
+        },
+        {
+            "id": 21,
+            "title": "CLASSICS OLD SKOOL AMARILLO FAVL",
+            "price": 1200,
+            "image": "https://vansmx.vtexassets.com/arquivos/ids/548718-800-auto?v=637787484997400000&width=800&height=auto&aspect=true?auto=compress&amp;h=305",
+            "category": "vans"
+        },
+        {
+            "id": 22,
+            "title": "CLASSICS OLD SKOOL NEGRO F8MG",
+            "price": 1400,
+            "image": "https://vansmx.vtexassets.com/arquivos/ids/541900-800-auto?v=637781342122070000&width=800&height=auto&aspect=true?auto=compress&amp;h=305",
+            "category": "vans"
+        },
+        {
+            "id": 23,
+            "title": "CLASSICS AUTHENTIC (PIG SUEDE)",
+            "price": 1200,
+            "image": "https://vansmx.vtexassets.com/arquivos/ids/574584-800-auto?v=637841689995030000&width=800&height=auto&aspect=true",
+            "category": "vans"
+        },
+        {
+            "id": 24,
+            "title": "CLASSICS OLD SKOOL (MOSAIC CHECKERBOARD)",
+            "price": 1500,
+            "image": "https://vansmx.vtexassets.com/arquivos/ids/574749-800-auto?v=637841690839600000&width=800&height=auto&aspect=true",
+            "category": "vans"
+        }
+    ]
+}
