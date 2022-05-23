@@ -1,0 +1,33 @@
+
+img{
+    width: 43%;
+}
+.container-error{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 10px;
+
+}
+h1{
+    color: #088A85;
+    font-size: 20px;
+    padding: 20px;
+}
+button{
+    padding: 13px 30px;
+    border-radius: 15px;
+    border: none;
+    background: #A9F5E1;
+    color: gray;
+}
+
+@media screen and (max-width:630px){
+    h1{        
+        font-size: 16px;        
+    }
+}

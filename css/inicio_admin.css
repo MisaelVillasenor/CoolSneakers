@@ -1,0 +1,87 @@
+
+.bienvenido {
+    font-family: 'Amatic SC';
+    font-size: 5vmin !important;
+    text-align: center;
+}
+
+.op-admin {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0 10vmin;
+}
+
+.opcion-carrusel a{
+    text-decoration: none;
+    font-size: 3vmin !important;
+    font-family: "Roboto", sans-serif;
+    color: black;
+}
+
+.opcion-carrusel{
+    padding: 2vmin;
+    border-radius: 1.2vmin;
+    text-align: center;
+    margin-bottom: 4vmin;
+    margin-right: 4vmin;
+    width: 30%;
+    height: 20%;
+}
+
+.opcion-carrusel img{
+    width: 40%;
+    margin-top: 0.4vmin;
+}
+
+
+
+.opcion-carrusel {
+    background: #A9F5E1;
+}
+
+
+.opcion-carrusel:hover{
+    padding: 2.5vmin;
+    font-size: 3.5vmin !important;
+    background: #088A85;
+}
+
+
+@media screen and (max-width:462px) {
+    .titulo-header {
+        font-size: 3vmin !important;
+    }
+}
+
+.div-admin-carrusel{
+    max-width: 75% !important;
+}
+
+.btn-success{
+    background-color: #A9F5E1 !important;
+    border-color: #A9F5E1 !important;
+    color: gray !important;
+}
+
+.btn-danger{
+    background-color: #088A85 !important;
+    border-color: #088A85 !important;
+    color: white !important;    
+}
+
+.btn-default{
+    background-color: #088A85 !important;
+    border-color: #088A85 !important;
+    color: white !important;        
+}
+
+.btn-primary{
+    background-color: #A9F5E1 !important;
+    border-color: #A9F5E1 !important;
+    color: black !important;        
+}
+
+.subir-imagen{
+    
+}

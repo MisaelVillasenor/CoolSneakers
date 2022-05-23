@@ -1,0 +1,42 @@
+.sliderIndex{
+    padding: 0 2rem;
+    width: 100%;
+    margin: 0;
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-row-gap: 30px;
+
+    text-align: center !important;    
+}
+
+.carousel{
+    justify-self: center;
+    width: 70% !important ;
+    justify-content: center !important;
+}
+.carousel-item{
+    justify-content: center !important;
+    align-content: center !important;
+}
+
+/* .sliderIndex h1{
+    font-size: 4rem;
+    color: black  !important;
+} */
+
+.sliderIndex p{
+    font-size: 3rem;
+    color: white  !important;
+    z-index: 0;
+}
+
+
+
+
+
+
+
+
